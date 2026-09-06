@@ -1,0 +1,58 @@
+# Core pipeline requirements (data prep, regression, LSTM, evaluation, reporting).
+#
+# ---------------------------------------------------------------------------
+# IMPORTANT: the serialized models are scikit-learn-version locked.
+#
+# Every .joblib in models/regression/ and models/classification/ was pickled by
+# the reference environment below. scikit-learn pickles are NOT portable across
+# feature releases in either direction - loading these files under scikit-learn
+# 1.8 fails with:
+#     AttributeError: 'SimpleImputer' object has no attribute '_fill_dtype'
+# and files pickled under 1.8 fail under 1.6 with:
+#     ModuleNotFoundError: No module named 'numpy._core.multiarray'
+#
+# Install the pinned versions, or retrain with `python run_baseline_ml.py`.
+#
+# Reference environment (produced every result in reports/):
+#     Python      3.10.16
+#     numpy       1.24.3
+#     pandas      2.2.3
+#     scikit-learn 1.6.1
+#     scipy       1.15.3
+#     joblib      1.4.2
+#     matplotlib  3.10.0
+#     torch       2.6.0+cpu
+#     xgboost     3.2.0
+#     lightgbm    4.6.0
+#
+# TensorFlow is intentionally NOT listed here - it is only needed for the CNN
+# growth-stage classifier, which is a separate experiment. The saved .keras files
+# require Keras 3 (TensorFlow >= 2.16). See requirements_colab_cnn.txt and
+# docs/models.md.
+# ---------------------------------------------------------------------------
+
+# --- data handling -----------------------------------------------------------
+numpy>=1.24,<2.0
+pandas>=2.0
+pyyaml>=6.0
+
+# --- modelling ---------------------------------------------------------------
+scikit-learn>=1.6,<1.7   # pickle-compatibility pin - see the note above
+scipy>=1.10
+joblib>=1.3
+xgboost>=2.0             # one of the five compared regressors
+lightgbm>=4.0            # best model under walk-forward temporal CV
+torch>=2.0               # LSTM sequence model
+
+# --- I/O ---------------------------------------------------------------------
+openpyxl>=3.1            # pandas.read_excel for the APY .xlsx workbooks
+requests>=2.31           # Open-Meteo archive API
+pillow>=10.0             # handcrafted image features
+
+# --- reporting ---------------------------------------------------------------
+matplotlib>=3.7
+tabulate>=0.9            # DataFrame.to_markdown() in the report writers
+
+# --- optional ----------------------------------------------------------------
+# pdfplumber>=0.10       # only for src/data/extract_apy_all_districts.py (PDF path)
+# earthengine-api>=1.0   # only for src/data/export_sentinel2_gee.py (GEE export)

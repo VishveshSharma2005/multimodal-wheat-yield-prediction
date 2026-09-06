@@ -1,0 +1,7 @@
+{
+  "model_name": "densenet121",
+  "model_path": "/home/student/Crop_Yield_Prediction/Crop_yeild_predictions-20260603T090933Z-3-001/Crop_yeild_predictions/models/cnn/densenet121_best.keras",
+  "training_time_seconds": 999.7806046009064,
+  "best_validation_accuracy": 0.9859334826469421,
+  "best_validation_loss": 0.033678941428661346
+}

@@ -1,0 +1,9 @@
+field_id,district,state,latitude,longitude,source,notes
+Field01,Mehsana,Gujarat,22.92042415,72.78983693,user_provided_farm_coordinate,verified_by_user
+Field02,Mehsana,Gujarat,23.01462017,72.80167142,user_provided_farm_coordinate,verified_by_user
+Field03,Surendranagar,Gujarat,23.2061933,72.39261113,user_provided_farm_coordinate,verified_by_user
+Field04,Ahmedabad,Gujarat,22.91838831,72.54314104,user_provided_farm_coordinate,verified_by_user
+Field05,Surendranagar,Gujarat,23.21124653,72.40388274,user_provided_farm_coordinate,verified_by_user
+Field06,Ahmedabad,Gujarat,22.93904242,72.43619763,user_provided_farm_coordinate,verified_by_user
+Field07,Ahmedabad,Gujarat,22.92338075,72.68122852,user_provided_farm_coordinate,verified_by_user
+Field08,Gandhinagar,Gujarat,22.97967092,72.77288693,user_provided_farm_coordinate,verified_by_user

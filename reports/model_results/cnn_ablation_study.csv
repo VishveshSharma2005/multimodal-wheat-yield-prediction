@@ -1,0 +1,5 @@
+ablation,feature_count,MAE,RMSE,MAPE,R2,status,message,dataset
+Weather Only,6,623.1134487313035,780.2804567735052,19.062613719653243,-0.04905065873771752,ok,,D:\BIG_Works_Done\Crop_yeild_predictions\data\processed\stage_features_with_cnn.csv
+Weather + Satellite,16,481.78674175154043,651.521673194477,13.97385327812687,0.26860373809182714,ok,,D:\BIG_Works_Done\Crop_yeild_predictions\data\processed\stage_features_with_cnn.csv
+Weather + Satellite + Handcrafted Images,24,483.7974209707869,653.3290200178633,14.038944919362153,0.26454026561501076,ok,,D:\BIG_Works_Done\Crop_yeild_predictions\data\processed\stage_features_with_cnn.csv
+Weather + Satellite + Handcrafted Images + CNN,24,483.7974209707869,653.3290200178633,14.038944919362153,0.26454026561501076,ok,,D:\BIG_Works_Done\Crop_yeild_predictions\data\processed\stage_features_with_cnn.csv

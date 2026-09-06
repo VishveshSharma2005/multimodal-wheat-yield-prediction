@@ -1,0 +1,14 @@
+scope,stage,space,predictor,n,mae,rmse,r2
+all stages,,raw yield,stage-wise model,297,162.1708,210.9911,0.9233
+all stages,,raw yield,district historical mean (reference),297,70.2901,90.542,0.9859
+all stages,,within-district anomaly,stage-wise model,297,162.1708,210.9911,-4.4342
+all stages,,within-district anomaly,zero anomaly (= district mean),297,70.2901,90.542,-0.0007
+per stage,sowing,within-district anomaly,stage-wise model,33,159.7425,220.4979,-4.9349
+per stage,early_vegetative,within-district anomaly,stage-wise model,33,154.9924,195.497,-3.6654
+per stage,tillering,within-district anomaly,stage-wise model,33,169.5442,212.9579,-4.5359
+per stage,stem_elongation,within-district anomaly,stage-wise model,33,164.5041,200.6911,-3.9166
+per stage,booting_heading,within-district anomaly,stage-wise model,33,161.15,187.9838,-3.3137
+per stage,flowering,within-district anomaly,stage-wise model,33,149.8219,200.1165,-3.8884
+per stage,grain_filling_initial,within-district anomaly,stage-wise model,33,190.0066,260.3015,-7.271
+per stage,grain_filling,within-district anomaly,stage-wise model,33,128.2862,178.1283,-2.8732
+per stage,maturity_preharvest,within-district anomaly,stage-wise model,33,181.4893,230.9065,-5.5084

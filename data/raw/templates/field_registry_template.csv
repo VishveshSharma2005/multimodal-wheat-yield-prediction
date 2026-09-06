@@ -1,0 +1,6 @@
+case_id,farm_id,field_id,season_year,crop,region,lat,lon,area_ha,sowing_date,harvest_date,yield_kg_ha
+Mehsana_Field01_2021,Farm01,Field01,2021,wheat,"Mehsana, Gujarat",23.5866,72.3693,,2021-11-20,2022-03-25,3292.8
+Mehsana_Field01_2022,Farm01,Field01,2022,wheat,"Mehsana, Gujarat",23.5866,72.3693,,2022-11-20,2023-03-25,2783.09
+Mehsana_Field01_2023,Farm01,Field01,2023,wheat,"Mehsana, Gujarat",23.5866,72.3693,,2023-11-20,2024-03-25,2796.06
+Mehsana_Field01_2024,Farm01,Field01,2024,wheat,"Mehsana, Gujarat",23.5866,72.3693,,2024-11-20,2025-03-25,
+Mehsana_Field01_2025,Farm01,Field01,2025,wheat,"Mehsana, Gujarat",23.5866,72.3693,,2025-11-20,2026-03-25,

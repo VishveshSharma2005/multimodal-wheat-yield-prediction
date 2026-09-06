@@ -1,0 +1,115 @@
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.venv/
+.venv_*/
+venv/
+env/
+ENV/
+
+# ---------------------------------------------------------------------------
+# Editors / notebooks
+# ---------------------------------------------------------------------------
+.vscode/
+.idea/
+.ipynb_checkpoints/
+anaconda_projects/
+*.swp
+
+# ---------------------------------------------------------------------------
+# OS
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------------------------------------------------------------------------
+# Local-only archive of superseded / scratch material (see CLEANUP_REPORT.md)
+# ---------------------------------------------------------------------------
+archive/
+
+# ---------------------------------------------------------------------------
+# Raw datasets - NOT redistributed via GitHub.
+# See data/README.md for sources and download instructions.
+# ---------------------------------------------------------------------------
+data/raw/images/
+data/raw/apy/*.pdf
+data/raw/apy/*.xlsx
+data/raw/apy/*.xls
+data/raw/satellite/
+data/raw/weather/
+data/raw/drone/
+data/raw/farm_logs/
+data/raw/soil/
+
+# Keep the small, hand-curated APY provenance CSVs and the folder READMEs
+!data/raw/README.md
+!data/raw/apy/README_APY_CSV.md
+!data/raw/apy/*.csv
+
+# ---------------------------------------------------------------------------
+# Large derived data (regenerate with the pipeline; see docs/reproducibility.md)
+# ---------------------------------------------------------------------------
+data/processed/cnn_features/
+data/processed/cnn_features.csv
+data/processed/cnn_stage_features.csv
+data/processed/stage_features_with_cnn.csv
+data/processed/stage_features_with_split.csv
+data/interim/cnn_dataset_split.csv
+data/interim/weather_daily.csv
+data/interim/weather_daily_points.csv
+data/interim/satellite_observations.csv
+reports/model_results/ml_selected_features.csv
+reports/model_results/lstm_selected_features.csv
+reports/model_results/lstm_summary.md
+reports/feature_diagnosis_report.md
+
+# ---------------------------------------------------------------------------
+# Model artefacts.
+# CNN .keras files are 9-88 MB each (~271 MB total) - excluded from normal Git
+# history. See docs/models.md for how to obtain / place them.
+# The small scikit-learn .joblib and PyTorch .pt artefacts ARE tracked.
+# ---------------------------------------------------------------------------
+models/cnn/
+*.keras
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+saved_model/
+
+# ---------------------------------------------------------------------------
+# Bulk geospatial / archive formats
+# ---------------------------------------------------------------------------
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.tif
+*.tiff
+*.jp2
+*.nc
+*.hdf
+*.grib
+*.grib2
+
+# ---------------------------------------------------------------------------
+# Temporary / logs / secrets
+# ---------------------------------------------------------------------------
+tmp/
+temp/
+cache/
+*.log
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+service_account*.json

@@ -1,0 +1,56 @@
+feature,dtype,missing_pct,n_unique,issue,action,rationale
+case_id,object,0.0,165,identifier / split key,excluded from predictive feature set,identifier / split key
+crop_name,object,0.0,1,constant column (no effect on fitted models),retained,zero variance
+season_type,object,0.0,1,constant column (no effect on fitted models),retained,zero variance
+stage,object,0.0,9,-,retained (not selected: categorical/handled separately),above missingness threshold
+stage_name,object,0.0,9,-,retained (not selected: categorical/handled separately),above missingness threshold
+stage_start_date,object,0.0,45,identifier / split key,excluded from predictive feature set,identifier / split key
+stage_end_date,object,0.0,45,identifier / split key,excluded from predictive feature set,identifier / split key
+stage_start_das,int64,0.0,9,-,retained (selected),above missingness threshold
+stage_end_das,int64,0.0,9,-,retained (selected),above missingness threshold
+stage_index,int64,0.0,9,-,retained (selected),above missingness threshold
+stage_order,int64,0.0,9,-,retained (selected),above missingness threshold
+days_after_sowing,int64,0.0,9,exact duplicate of 'stage_start_das',excluded from predictive feature set,exact duplicate of 'stage_start_das'
+crop_duration_days,int64,0.0,2,-,retained (selected),above missingness threshold
+district,object,0.0,33,-,retained (selected),above missingness threshold
+lat,float64,57.58,14,-,retained (selected),above missingness threshold
+lon,float64,57.58,14,-,retained (selected),above missingness threshold
+area_ha,float64,100.0,0,missing 100.0%,dropped by >90% missing filter,zero variance
+season_year_start,int64,0.0,5,identifier / split key,excluded from predictive feature set,identifier / split key
+season_year_end,int64,0.0,5,identifier / split key,excluded from predictive feature set,identifier / split key
+yield_kg_ha,float64,20.0,125,target-derived (leakage / train-serve shift),excluded from predictive feature set,target-derived (leakage / train-serve shift)
+actual_available,int64,0.0,2,target-derived (leakage / train-serve shift),excluded from predictive feature set,target-derived (leakage / train-serve shift)
+evaluation_status,object,0.0,2,target-derived (leakage / train-serve shift),excluded from predictive feature set,target-derived (leakage / train-serve shift)
+rain_sum,float64,0.0,391,-,retained (selected),above missingness threshold
+tmin_mean,float64,0.0,1457,-,retained (selected),above missingness threshold
+tmax_mean,float64,0.0,1444,-,retained (selected),above missingness threshold
+cumulative_rain_mm,float64,0.0,391,exact duplicate of 'rain_sum',excluded from predictive feature set,exact duplicate of 'rain_sum'
+mean_tmin_c,float64,0.0,1457,exact duplicate of 'tmin_mean',excluded from predictive feature set,exact duplicate of 'tmin_mean'
+mean_tmax_c,float64,0.0,1444,exact duplicate of 'tmax_mean',excluded from predictive feature set,exact duplicate of 'tmax_mean'
+max_tmax_c,float64,0.0,150,-,retained (selected),above missingness threshold
+heat_stress_days,int64,0.0,77,-,retained (selected),above missingness threshold
+gdd_cum,float64,0.0,1461,-,retained (selected),above missingness threshold
+gdd_cumulative,float64,0.0,1461,exact duplicate of 'gdd_cum',excluded from predictive feature set,exact duplicate of 'gdd_cum'
+gdd_norm,float64,0.0,1451,-,retained (selected),above missingness threshold
+ndvi_last,float64,19.39,1197,-,retained (selected),above missingness threshold
+ndvi_mean,float64,19.39,1197,-,retained (selected),above missingness threshold
+ndvi_max,float64,19.39,313,-,retained (selected),above missingness threshold
+ndvi_slope,float64,19.39,1197,-,retained (selected),above missingness threshold
+ndre_last,float64,19.39,1197,-,retained (selected),above missingness threshold
+ndre_mean,float64,19.39,1197,-,retained (selected),above missingness threshold
+ndre_slope,float64,19.39,1197,-,retained (selected),above missingness threshold
+evi_last,float64,19.39,1197,-,retained (selected),above missingness threshold
+evi_mean,float64,19.39,1197,-,retained (selected),above missingness threshold
+evi_slope,float64,19.39,1197,-,retained (selected),above missingness threshold
+cumulative_rainfall,float64,0.0,391,exact duplicate of 'rain_sum',excluded from predictive feature set,exact duplicate of 'rain_sum'
+cumulative_gdd,float64,0.0,1461,exact duplicate of 'gdd_cum',excluded from predictive feature set,exact duplicate of 'gdd_cum'
+ndvi_growth_rate,float64,19.39,1197,exact duplicate of 'ndvi_slope',excluded from predictive feature set,exact duplicate of 'ndvi_slope'
+image_green_pixel_ratio_stage_avg,float64,44.44,5,-,retained (selected),above missingness threshold
+image_canopy_density_proxy_stage_avg,float64,44.44,5,-,retained (selected),above missingness threshold
+image_vegetation_pixel_ratio_stage_avg,float64,44.44,5,-,retained (selected),above missingness threshold
+image_brightness_mean_stage_avg,float64,44.44,5,-,retained (selected),above missingness threshold
+image_saturation_mean_stage_avg,float64,44.44,5,-,retained (selected),above missingness threshold
+image_texture_proxy_stage_avg,float64,44.44,5,free-text / provenance,excluded from predictive feature set,free-text / provenance
+image_count_stage,float64,44.44,5,-,retained (selected),above missingness threshold
+image_coverage_flag,float64,44.44,1,constant column (no effect on fitted models),retained,zero variance
+image_feature_source,object,44.44,1,free-text / provenance,excluded from predictive feature set,free-text / provenance

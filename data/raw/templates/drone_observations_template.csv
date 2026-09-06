@@ -1,0 +1,1 @@
+case_id,date,image_id,canopy_cover_pct,weed_cover_pct,crop_cover_pct,ndvi_raw,ndvi_crop_only,canopy_temp_c,crop_stage_observed,notes

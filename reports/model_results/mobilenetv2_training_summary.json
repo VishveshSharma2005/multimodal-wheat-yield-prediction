@@ -1,0 +1,7 @@
+{
+  "model_name": "mobilenetv2",
+  "model_path": "/home/student/Crop_Yield_Prediction/Crop_yeild_predictions-20260603T090933Z-3-001/Crop_yeild_predictions/models/cnn/mobilenetv2_best.keras",
+  "training_time_seconds": 223.57954907417297,
+  "best_validation_accuracy": 0.9130434989929199,
+  "best_validation_loss": 0.28503984212875366
+}

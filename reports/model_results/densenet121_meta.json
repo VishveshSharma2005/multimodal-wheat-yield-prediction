@@ -1,0 +1,31 @@
+{
+  "model_name": "densenet121",
+  "img_size": 224,
+  "batch_size": 16,
+  "epochs": 100,
+  "steps_per_epoch": 228,
+  "validation_steps": 49,
+  "training_time_seconds": 999.7806046009064,
+  "best_validation_accuracy": 0.9859334826469421,
+  "best_validation_loss": 0.033678941428661346,
+  "class_names": [
+    "1_Tillering",
+    "2_Jointing",
+    "3_BH",
+    "4_Flowering",
+    "5_Filling"
+  ],
+  "dataset_diagnostics": {
+    "total_images": 5210,
+    "stage_distribution": {
+      "1_Tillering": 1037,
+      "2_Jointing": 1202,
+      "3_BH": 1192,
+      "4_Flowering": 1164,
+      "5_Filling": 615
+    },
+    "train_count": 3646,
+    "validation_count": 782,
+    "test_count": 782
+  }
+}

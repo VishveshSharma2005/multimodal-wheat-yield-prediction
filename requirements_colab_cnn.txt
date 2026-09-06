@@ -1,0 +1,8 @@
+# Extra requirements for the CNN image-classification experiment only
+# (src/deep_learning/*). Install on top of requirements.txt.
+#
+# The five CNN models in models/cnn/ are ALREADY TRAINED. You only need this
+# file if you want to re-run CNN inference / feature extraction, or (not
+# recommended) retrain. See docs/models.md.
+
+tensorflow>=2.16      # Keras 3 required: the .keras files cannot be loaded by Keras 2

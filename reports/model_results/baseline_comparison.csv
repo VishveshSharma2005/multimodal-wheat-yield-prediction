@@ -1,0 +1,9 @@
+kind,name,n_folds,mae_mean,mae_std,rmse_mean,rmse_std,mape_mean,mape_std,r2_mean,r2_std,rmse_vs_best_model_pct
+baseline,Baseline A: district historical mean,3,113.6094,38.9151,155.2535,56.3934,3.6153,1.208,0.9567,0.0261,-8.41
+baseline,Baseline B: persistence (last known year),3,111.9553,32.8369,158.9563,46.6635,3.6309,0.9674,0.9558,0.0223,-6.22
+baseline,Baseline C: district identity only,3,158.7392,33.7924,189.6569,41.7198,5.0198,1.0205,0.9385,0.0238,11.89
+model,LightGBMRegressor,3,124.507,25.993,169.5035,33.0193,3.9994,0.793,0.951,0.0183,0.0
+model,RandomForestRegressor,3,156.7014,69.1726,216.7027,90.7167,4.9799,2.0741,0.9149,0.0651,27.85
+model,GradientBoostingRegressor,3,173.3708,70.8935,222.1059,98.3767,5.4602,2.0876,0.9095,0.071,31.03
+model,XGBoostRegressor,3,190.2834,117.6899,267.9704,175.007,6.0456,3.46,0.8522,0.1706,58.09
+model,HistGradientBoostingRegressor,3,342.9907,237.3025,503.187,343.1457,9.9448,6.4339,0.4641,0.5194,196.86

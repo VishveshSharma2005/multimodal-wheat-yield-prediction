@@ -1,0 +1,7 @@
+{
+  "model_name": "vgg16",
+  "model_path": "/home/student/Crop_Yield_Prediction/Crop_yeild_predictions-20260603T090933Z-3-001/Crop_yeild_predictions/models/cnn/vgg16_best.keras",
+  "training_time_seconds": 2377.6517946720123,
+  "best_validation_accuracy": 0.9820972084999084,
+  "best_validation_loss": 0.06974948942661285
+}

@@ -1,0 +1,7 @@
+{
+  "model_name": "xception",
+  "model_path": "/home/student/Crop_Yield_Prediction/Crop_yeild_predictions-20260603T090933Z-3-001/Crop_yeild_predictions/models/cnn/xception_best.keras",
+  "training_time_seconds": 3808.7919883728027,
+  "best_validation_accuracy": 0.9948849081993103,
+  "best_validation_loss": 0.02604047767817974
+}

@@ -1,0 +1,23 @@
+# Normalise line endings so the repo is identical on Windows, Linux and macOS.
+* text=auto eol=lf
+
+*.py    text eol=lf
+*.md    text eol=lf
+*.csv   text eol=lf
+*.json  text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+*.txt   text eol=lf
+*.ipynb text eol=lf
+
+# Binary artefacts - never diff or convert
+*.joblib binary
+*.pt     binary
+*.keras  binary
+*.h5     binary
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.docx   binary
+*.pdf    binary
+*.xlsx   binary

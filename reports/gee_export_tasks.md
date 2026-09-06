@@ -1,0 +1,160 @@
+# GEE Export Tasks
+
+Use these coordinates for manual Sentinel-2 exports.
+Buffer: 500 m
+
+## Fields
+- case_id=GUJ_AHMEDABAD_2020_2021, field_id=Field04, district=None, lat=22.91838831, lon=72.54314104, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_AHMEDABAD_2020_2021, field_id=Field06, district=None, lat=22.93904242, lon=72.43619763, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_AHMEDABAD_2020_2021, field_id=Field07, district=None, lat=22.92338075, lon=72.68122852, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_AHMEDABAD_2021_2022, field_id=Field04, district=None, lat=22.91838831, lon=72.54314104, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_AHMEDABAD_2021_2022, field_id=Field06, district=None, lat=22.93904242, lon=72.43619763, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_AHMEDABAD_2021_2022, field_id=Field07, district=None, lat=22.92338075, lon=72.68122852, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_AHMEDABAD_2022_2023, field_id=Field04, district=None, lat=22.91838831, lon=72.54314104, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_AHMEDABAD_2022_2023, field_id=Field06, district=None, lat=22.93904242, lon=72.43619763, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_AHMEDABAD_2022_2023, field_id=Field07, district=None, lat=22.92338075, lon=72.68122852, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_AHMEDABAD_2023_2024, field_id=Field04, district=None, lat=22.91838831, lon=72.54314104, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_AHMEDABAD_2023_2024, field_id=Field06, district=None, lat=22.93904242, lon=72.43619763, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_AHMEDABAD_2023_2024, field_id=Field07, district=None, lat=22.92338075, lon=72.68122852, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_AMRELI_2020_2021, field_id=AMRELI_CENTROID, district=None, lat=21.6032, lon=71.2221, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_AMRELI_2021_2022, field_id=AMRELI_CENTROID, district=None, lat=21.6032, lon=71.2221, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_AMRELI_2022_2023, field_id=AMRELI_CENTROID, district=None, lat=21.6032, lon=71.2221, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_AMRELI_2023_2024, field_id=AMRELI_CENTROID, district=None, lat=21.6032, lon=71.2221, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_ANAND_2020_2021, field_id=ANAND_CENTROID, district=None, lat=22.5645, lon=72.9289, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_ANAND_2021_2022, field_id=ANAND_CENTROID, district=None, lat=22.5645, lon=72.9289, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_ANAND_2022_2023, field_id=ANAND_CENTROID, district=None, lat=22.5645, lon=72.9289, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_ANAND_2023_2024, field_id=ANAND_CENTROID, district=None, lat=22.5645, lon=72.9289, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_ARVALLI_2020_2021, field_id=ARVALLI_CENTROID, district=None, lat=23.1156, lon=73.0017, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_ARVALLI_2021_2022, field_id=ARVALLI_CENTROID, district=None, lat=23.1156, lon=73.0017, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_ARVALLI_2022_2023, field_id=ARVALLI_CENTROID, district=None, lat=23.1156, lon=73.0017, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_ARVALLI_2023_2024, field_id=ARVALLI_CENTROID, district=None, lat=23.1156, lon=73.0017, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_BANASKANTHA_2020_2021, field_id=BANASKANTHA_CENTROID, district=None, lat=24.1747, lon=72.4331, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_BANASKANTHA_2021_2022, field_id=BANASKANTHA_CENTROID, district=None, lat=24.1747, lon=72.4331, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_BANASKANTHA_2022_2023, field_id=BANASKANTHA_CENTROID, district=None, lat=24.1747, lon=72.4331, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_BANASKANTHA_2023_2024, field_id=BANASKANTHA_CENTROID, district=None, lat=24.1747, lon=72.4331, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_BHARUCH_2020_2021, field_id=BHARUCH_CENTROID, district=None, lat=21.7051, lon=72.9959, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_BHARUCH_2021_2022, field_id=BHARUCH_CENTROID, district=None, lat=21.7051, lon=72.9959, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_BHARUCH_2022_2023, field_id=BHARUCH_CENTROID, district=None, lat=21.7051, lon=72.9959, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_BHARUCH_2023_2024, field_id=BHARUCH_CENTROID, district=None, lat=21.7051, lon=72.9959, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_BHAVNAGAR_2020_2021, field_id=BHAVNAGAR_CENTROID, district=None, lat=21.7645, lon=72.1519, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_BHAVNAGAR_2021_2022, field_id=BHAVNAGAR_CENTROID, district=None, lat=21.7645, lon=72.1519, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_BHAVNAGAR_2022_2023, field_id=BHAVNAGAR_CENTROID, district=None, lat=21.7645, lon=72.1519, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_BHAVNAGAR_2023_2024, field_id=BHAVNAGAR_CENTROID, district=None, lat=21.7645, lon=72.1519, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_BOTAD_2020_2021, field_id=BOTAD_CENTROID, district=None, lat=22.1692, lon=71.6663, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_BOTAD_2021_2022, field_id=BOTAD_CENTROID, district=None, lat=22.1692, lon=71.6663, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_BOTAD_2022_2023, field_id=BOTAD_CENTROID, district=None, lat=22.1692, lon=71.6663, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_BOTAD_2023_2024, field_id=BOTAD_CENTROID, district=None, lat=22.1692, lon=71.6663, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_CHHOTA_UDEPUR_2020_2021, field_id=CHHOTA UDEPUR_CENTROID, district=None, lat=22.3085, lon=74.0123, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_CHHOTA_UDEPUR_2021_2022, field_id=CHHOTA UDEPUR_CENTROID, district=None, lat=22.3085, lon=74.0123, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_CHHOTA_UDEPUR_2022_2023, field_id=CHHOTA UDEPUR_CENTROID, district=None, lat=22.3085, lon=74.0123, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_CHHOTA_UDEPUR_2023_2024, field_id=CHHOTA UDEPUR_CENTROID, district=None, lat=22.3085, lon=74.0123, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_DAHOD_2020_2021, field_id=DAHOD_CENTROID, district=None, lat=22.8379, lon=74.2531, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_DAHOD_2021_2022, field_id=DAHOD_CENTROID, district=None, lat=22.8379, lon=74.2531, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_DAHOD_2022_2023, field_id=DAHOD_CENTROID, district=None, lat=22.8379, lon=74.2531, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_DAHOD_2023_2024, field_id=DAHOD_CENTROID, district=None, lat=22.8379, lon=74.2531, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_DANGS_2020_2021, field_id=DANGS_CENTROID, district=None, lat=20.7577, lon=73.6869, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_DANGS_2021_2022, field_id=DANGS_CENTROID, district=None, lat=20.7577, lon=73.6869, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_DANGS_2022_2023, field_id=DANGS_CENTROID, district=None, lat=20.7577, lon=73.6869, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_DANGS_2023_2024, field_id=DANGS_CENTROID, district=None, lat=20.7577, lon=73.6869, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_DEVBHOOMI_DWARKA_2020_2021, field_id=DEVBHOOMI DWARKA_CENTROID, district=None, lat=22.238, lon=69.343, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_DEVBHOOMI_DWARKA_2021_2022, field_id=DEVBHOOMI DWARKA_CENTROID, district=None, lat=22.238, lon=69.343, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_DEVBHOOMI_DWARKA_2022_2023, field_id=DEVBHOOMI DWARKA_CENTROID, district=None, lat=22.238, lon=69.343, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_DEVBHOOMI_DWARKA_2023_2024, field_id=DEVBHOOMI DWARKA_CENTROID, district=None, lat=22.238, lon=69.343, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_GANDHINAGAR_2020_2021, field_id=Field08, district=None, lat=22.97967092, lon=72.77288693, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_GANDHINAGAR_2021_2022, field_id=Field08, district=None, lat=22.97967092, lon=72.77288693, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_GANDHINAGAR_2022_2023, field_id=Field08, district=None, lat=22.97967092, lon=72.77288693, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_GANDHINAGAR_2023_2024, field_id=Field08, district=None, lat=22.97967092, lon=72.77288693, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_GIR_SOMNATH_2020_2021, field_id=GIR SOMNATH_CENTROID, district=None, lat=20.9129, lon=70.3679, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_GIR_SOMNATH_2021_2022, field_id=GIR SOMNATH_CENTROID, district=None, lat=20.9129, lon=70.3679, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_GIR_SOMNATH_2022_2023, field_id=GIR SOMNATH_CENTROID, district=None, lat=20.9129, lon=70.3679, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_GIR_SOMNATH_2023_2024, field_id=GIR SOMNATH_CENTROID, district=None, lat=20.9129, lon=70.3679, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_JAMNAGAR_2020_2021, field_id=JAMNAGAR_CENTROID, district=None, lat=22.4707, lon=70.0577, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_JAMNAGAR_2021_2022, field_id=JAMNAGAR_CENTROID, district=None, lat=22.4707, lon=70.0577, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_JAMNAGAR_2022_2023, field_id=JAMNAGAR_CENTROID, district=None, lat=22.4707, lon=70.0577, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_JAMNAGAR_2023_2024, field_id=JAMNAGAR_CENTROID, district=None, lat=22.4707, lon=70.0577, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_JUNAGADH_2020_2021, field_id=JUNAGADH_CENTROID, district=None, lat=21.5222, lon=70.4579, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_JUNAGADH_2021_2022, field_id=JUNAGADH_CENTROID, district=None, lat=21.5222, lon=70.4579, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_JUNAGADH_2022_2023, field_id=JUNAGADH_CENTROID, district=None, lat=21.5222, lon=70.4579, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_JUNAGADH_2023_2024, field_id=JUNAGADH_CENTROID, district=None, lat=21.5222, lon=70.4579, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_KACHCHH_2020_2021, field_id=KACHCHH_CENTROID, district=None, lat=23.7337, lon=69.8597, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_KACHCHH_2021_2022, field_id=KACHCHH_CENTROID, district=None, lat=23.7337, lon=69.8597, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_KACHCHH_2022_2023, field_id=KACHCHH_CENTROID, district=None, lat=23.7337, lon=69.8597, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_KACHCHH_2023_2024, field_id=KACHCHH_CENTROID, district=None, lat=23.7337, lon=69.8597, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_KHEDA_2020_2021, field_id=KHEDA_CENTROID, district=None, lat=22.75, lon=72.7, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_KHEDA_2021_2022, field_id=KHEDA_CENTROID, district=None, lat=22.75, lon=72.7, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_KHEDA_2022_2023, field_id=KHEDA_CENTROID, district=None, lat=22.75, lon=72.7, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_KHEDA_2023_2024, field_id=KHEDA_CENTROID, district=None, lat=22.75, lon=72.7, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_MAHISAGAR_2020_2021, field_id=MAHISAGAR_CENTROID, district=None, lat=22.8463, lon=73.608, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_MAHISAGAR_2021_2022, field_id=MAHISAGAR_CENTROID, district=None, lat=22.8463, lon=73.608, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_MAHISAGAR_2022_2023, field_id=MAHISAGAR_CENTROID, district=None, lat=22.8463, lon=73.608, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_MAHISAGAR_2023_2024, field_id=MAHISAGAR_CENTROID, district=None, lat=22.8463, lon=73.608, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_MEHSANA_2020_2021, field_id=Field01, district=None, lat=22.92042415, lon=72.78983693, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_MEHSANA_2020_2021, field_id=Field02, district=None, lat=23.01462017, lon=72.80167142, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_MEHSANA_2021_2022, field_id=Field01, district=None, lat=22.92042415, lon=72.78983693, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_MEHSANA_2021_2022, field_id=Field02, district=None, lat=23.01462017, lon=72.80167142, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_MEHSANA_2022_2023, field_id=Field01, district=None, lat=22.92042415, lon=72.78983693, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_MEHSANA_2022_2023, field_id=Field02, district=None, lat=23.01462017, lon=72.80167142, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_MEHSANA_2023_2024, field_id=Field01, district=None, lat=22.92042415, lon=72.78983693, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_MEHSANA_2023_2024, field_id=Field02, district=None, lat=23.01462017, lon=72.80167142, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_MORBI_2020_2021, field_id=MORBI_CENTROID, district=None, lat=22.8119, lon=70.8236, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_MORBI_2021_2022, field_id=MORBI_CENTROID, district=None, lat=22.8119, lon=70.8236, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_MORBI_2022_2023, field_id=MORBI_CENTROID, district=None, lat=22.8119, lon=70.8236, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_MORBI_2023_2024, field_id=MORBI_CENTROID, district=None, lat=22.8119, lon=70.8236, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_NARMADA_2020_2021, field_id=NARMADA_CENTROID, district=None, lat=21.869, lon=73.7125, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_NARMADA_2021_2022, field_id=NARMADA_CENTROID, district=None, lat=21.869, lon=73.7125, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_NARMADA_2022_2023, field_id=NARMADA_CENTROID, district=None, lat=21.869, lon=73.7125, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_NARMADA_2023_2024, field_id=NARMADA_CENTROID, district=None, lat=21.869, lon=73.7125, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_NAVSARI_2020_2021, field_id=NAVSARI_CENTROID, district=None, lat=20.9467, lon=72.952, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_NAVSARI_2021_2022, field_id=NAVSARI_CENTROID, district=None, lat=20.9467, lon=72.952, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_NAVSARI_2022_2023, field_id=NAVSARI_CENTROID, district=None, lat=20.9467, lon=72.952, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_NAVSARI_2023_2024, field_id=NAVSARI_CENTROID, district=None, lat=20.9467, lon=72.952, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_PANCHMAHAL_2020_2021, field_id=PANCHMAHAL_CENTROID, district=None, lat=22.7726, lon=73.6149, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_PANCHMAHAL_2021_2022, field_id=PANCHMAHAL_CENTROID, district=None, lat=22.7726, lon=73.6149, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_PANCHMAHAL_2022_2023, field_id=PANCHMAHAL_CENTROID, district=None, lat=22.7726, lon=73.6149, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_PANCHMAHAL_2023_2024, field_id=PANCHMAHAL_CENTROID, district=None, lat=22.7726, lon=73.6149, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_PATAN_2020_2021, field_id=PATAN_CENTROID, district=None, lat=23.8507, lon=72.1266, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_PATAN_2021_2022, field_id=PATAN_CENTROID, district=None, lat=23.8507, lon=72.1266, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_PATAN_2022_2023, field_id=PATAN_CENTROID, district=None, lat=23.8507, lon=72.1266, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_PATAN_2023_2024, field_id=PATAN_CENTROID, district=None, lat=23.8507, lon=72.1266, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_PORBANDAR_2020_2021, field_id=PORBANDAR_CENTROID, district=None, lat=21.6425, lon=69.6093, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_PORBANDAR_2021_2022, field_id=PORBANDAR_CENTROID, district=None, lat=21.6425, lon=69.6093, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_PORBANDAR_2022_2023, field_id=PORBANDAR_CENTROID, district=None, lat=21.6425, lon=69.6093, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_PORBANDAR_2023_2024, field_id=PORBANDAR_CENTROID, district=None, lat=21.6425, lon=69.6093, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_RAJKOT_2020_2021, field_id=RAJKOT_CENTROID, district=None, lat=22.3039, lon=70.8022, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_RAJKOT_2021_2022, field_id=RAJKOT_CENTROID, district=None, lat=22.3039, lon=70.8022, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_RAJKOT_2022_2023, field_id=RAJKOT_CENTROID, district=None, lat=22.3039, lon=70.8022, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_RAJKOT_2023_2024, field_id=RAJKOT_CENTROID, district=None, lat=22.3039, lon=70.8022, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_SABARKANTHA_2020_2021, field_id=SABARKANTHA_CENTROID, district=None, lat=23.6042, lon=72.963, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_SABARKANTHA_2021_2022, field_id=SABARKANTHA_CENTROID, district=None, lat=23.6042, lon=72.963, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_SABARKANTHA_2022_2023, field_id=SABARKANTHA_CENTROID, district=None, lat=23.6042, lon=72.963, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_SABARKANTHA_2023_2024, field_id=SABARKANTHA_CENTROID, district=None, lat=23.6042, lon=72.963, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURAT_2020_2021, field_id=SURAT_CENTROID, district=None, lat=21.1702, lon=72.8311, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURAT_2021_2022, field_id=SURAT_CENTROID, district=None, lat=21.1702, lon=72.8311, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURAT_2022_2023, field_id=SURAT_CENTROID, district=None, lat=21.1702, lon=72.8311, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURAT_2023_2024, field_id=SURAT_CENTROID, district=None, lat=21.1702, lon=72.8311, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURENDRANAGAR_2020_2021, field_id=Field03, district=None, lat=23.2061933, lon=72.39261113, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURENDRANAGAR_2020_2021, field_id=Field05, district=None, lat=23.21124653, lon=72.40388274, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURENDRANAGAR_2021_2022, field_id=Field03, district=None, lat=23.2061933, lon=72.39261113, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURENDRANAGAR_2021_2022, field_id=Field05, district=None, lat=23.21124653, lon=72.40388274, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURENDRANAGAR_2022_2023, field_id=Field03, district=None, lat=23.2061933, lon=72.39261113, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURENDRANAGAR_2022_2023, field_id=Field05, district=None, lat=23.21124653, lon=72.40388274, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURENDRANAGAR_2023_2024, field_id=Field03, district=None, lat=23.2061933, lon=72.39261113, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_SURENDRANAGAR_2023_2024, field_id=Field05, district=None, lat=23.21124653, lon=72.40388274, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_TAPI_2020_2021, field_id=TAPI_CENTROID, district=None, lat=21.278, lon=73.5832, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_TAPI_2021_2022, field_id=TAPI_CENTROID, district=None, lat=21.278, lon=73.5832, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_TAPI_2022_2023, field_id=TAPI_CENTROID, district=None, lat=21.278, lon=73.5832, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_TAPI_2023_2024, field_id=TAPI_CENTROID, district=None, lat=21.278, lon=73.5832, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_VADODARA_2020_2021, field_id=VADODARA_CENTROID, district=None, lat=22.3072, lon=73.1812, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_VADODARA_2021_2022, field_id=VADODARA_CENTROID, district=None, lat=22.3072, lon=73.1812, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_VADODARA_2022_2023, field_id=VADODARA_CENTROID, district=None, lat=22.3072, lon=73.1812, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_VADODARA_2023_2024, field_id=VADODARA_CENTROID, district=None, lat=22.3072, lon=73.1812, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+- case_id=GUJ_VALSAD_2020_2021, field_id=VALSAD_CENTROID, district=None, lat=20.623, lon=72.9271, sowing=2020-11-20 00:00:00, harvest=2021-03-25 00:00:00, season=None-None
+- case_id=GUJ_VALSAD_2021_2022, field_id=VALSAD_CENTROID, district=None, lat=20.623, lon=72.9271, sowing=2021-11-20 00:00:00, harvest=2022-03-25 00:00:00, season=None-None
+- case_id=GUJ_VALSAD_2022_2023, field_id=VALSAD_CENTROID, district=None, lat=20.623, lon=72.9271, sowing=2022-11-20 00:00:00, harvest=2023-03-25 00:00:00, season=None-None
+- case_id=GUJ_VALSAD_2023_2024, field_id=VALSAD_CENTROID, district=None, lat=20.623, lon=72.9271, sowing=2023-11-20 00:00:00, harvest=2024-03-25 00:00:00, season=None-None
+
+## Export instructions
+1. Filter Sentinel-2 SR (COPERNICUS/S2_SR_HARMONIZED) by date range.
+2. Apply cloud filter and compute NDVI/NDRE/EVI.
+3. Reduce over a 500 m buffer around the field point.
+4. Export columns: case_id, field_id, district, date, ndvi_raw, ndre, evi, cloud_pct, source.

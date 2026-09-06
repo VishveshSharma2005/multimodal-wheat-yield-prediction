@@ -1,0 +1,166 @@
+case_id,district,state,crop,region,season_year,season_year_start,season_year_end,lat,lon,area_ha,sowing_date,harvest_date,yield_kg_ha,actual_available,evaluation_status
+GUJ_AHMEDABAD_2020_2021,Ahmedabad,Gujarat,wheat,Gujarat,2020,2020,2021,23.0225,72.5714,,2020-11-20,2021-03-25,2607.08,1,available
+GUJ_AHMEDABAD_2021_2022,Ahmedabad,Gujarat,wheat,Gujarat,2021,2021,2022,23.0225,72.5714,,2021-11-20,2022-03-25,2539.06,1,available
+GUJ_AHMEDABAD_2022_2023,Ahmedabad,Gujarat,wheat,Gujarat,2022,2022,2023,23.0225,72.5714,,2022-11-20,2023-03-25,2349.85,1,available
+GUJ_AHMEDABAD_2023_2024,Ahmedabad,Gujarat,wheat,Gujarat,2023,2023,2024,23.0225,72.5714,,2023-11-20,2024-03-25,2392.94,1,available
+GUJ_AMRELI_2020_2021,Amreli,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,3710.39,1,available
+GUJ_AMRELI_2021_2022,Amreli,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,3823.26,1,available
+GUJ_AMRELI_2022_2023,Amreli,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,3742.48,1,available
+GUJ_AMRELI_2023_2024,Amreli,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,3736.18,1,available
+GUJ_ANAND_2020_2021,Anand,Gujarat,wheat,Gujarat,2020,2020,2021,22.5645,72.9289,,2020-11-20,2021-03-25,2993.48,1,available
+GUJ_ANAND_2021_2022,Anand,Gujarat,wheat,Gujarat,2021,2021,2022,22.5645,72.9289,,2021-11-20,2022-03-25,3105.39,1,available
+GUJ_ANAND_2022_2023,Anand,Gujarat,wheat,Gujarat,2022,2022,2023,22.5645,72.9289,,2022-11-20,2023-03-25,3068.06,1,available
+GUJ_ANAND_2023_2024,Anand,Gujarat,wheat,Gujarat,2023,2023,2024,22.5645,72.9289,,2023-11-20,2024-03-25,3056.23,1,available
+GUJ_ARVALLI_2020_2021,Arvalli,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,2566.98,1,available
+GUJ_ARVALLI_2021_2022,Arvalli,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,2962.24,1,available
+GUJ_ARVALLI_2022_2023,Arvalli,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,2882.34,1,available
+GUJ_ARVALLI_2023_2024,Arvalli,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,2917.87,1,available
+GUJ_BANASKANTHA_2020_2021,Banaskantha,Gujarat,wheat,Gujarat,2020,2020,2021,24.1747,72.4331,,2020-11-20,2021-03-25,3097.09,1,available
+GUJ_BANASKANTHA_2021_2022,Banaskantha,Gujarat,wheat,Gujarat,2021,2021,2022,24.1747,72.4331,,2021-11-20,2022-03-25,3104.38,1,available
+GUJ_BANASKANTHA_2022_2023,Banaskantha,Gujarat,wheat,Gujarat,2022,2022,2023,24.1747,72.4331,,2022-11-20,2023-03-25,3067.3,1,available
+GUJ_BANASKANTHA_2023_2024,Banaskantha,Gujarat,wheat,Gujarat,2023,2023,2024,24.1747,72.4331,,2023-11-20,2024-03-25,3099.37,1,available
+GUJ_BHARUCH_2020_2021,Bharuch,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,1955.27,1,available
+GUJ_BHARUCH_2021_2022,Bharuch,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,2028.6,1,available
+GUJ_BHARUCH_2022_2023,Bharuch,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,2000.74,1,available
+GUJ_BHARUCH_2023_2024,Bharuch,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,2022.43,1,available
+GUJ_BHAVNAGAR_2020_2021,Bhavnagar,Gujarat,wheat,Gujarat,2020,2020,2021,21.7645,72.1519,,2020-11-20,2021-03-25,3229.49,1,available
+GUJ_BHAVNAGAR_2021_2022,Bhavnagar,Gujarat,wheat,Gujarat,2021,2021,2022,21.7645,72.1519,,2021-11-20,2022-03-25,3244.39,1,available
+GUJ_BHAVNAGAR_2022_2023,Bhavnagar,Gujarat,wheat,Gujarat,2022,2022,2023,21.7645,72.1519,,2022-11-20,2023-03-25,3078.79,1,available
+GUJ_BHAVNAGAR_2023_2024,Bhavnagar,Gujarat,wheat,Gujarat,2023,2023,2024,21.7645,72.1519,,2023-11-20,2024-03-25,3209.12,1,available
+GUJ_BOTAD_2020_2021,Botad,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,3525.53,1,available
+GUJ_BOTAD_2021_2022,Botad,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,3587.64,1,available
+GUJ_BOTAD_2022_2023,Botad,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,3657.22,1,available
+GUJ_BOTAD_2023_2024,Botad,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,3692.25,1,available
+GUJ_CHHOTA_UDEPUR_2020_2021,Chhota Udepur,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,3270.67,1,available
+GUJ_CHHOTA_UDEPUR_2021_2022,Chhota Udepur,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,3305.3,1,available
+GUJ_CHHOTA_UDEPUR_2022_2023,Chhota Udepur,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,3285.24,1,available
+GUJ_CHHOTA_UDEPUR_2023_2024,Chhota Udepur,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,3090.51,1,available
+GUJ_DAHOD_2020_2021,Dahod,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,2378.16,1,available
+GUJ_DAHOD_2021_2022,Dahod,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,2346.41,1,available
+GUJ_DAHOD_2022_2023,Dahod,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,2697.13,1,available
+GUJ_DAHOD_2023_2024,Dahod,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,2560.13,1,available
+GUJ_DANGS_2020_2021,Dangs,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,3270.67,1,available
+GUJ_DANGS_2021_2022,Dangs,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,3254.48,1,available
+GUJ_DANGS_2022_2023,Dangs,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,3224.48,1,available
+GUJ_DANGS_2023_2024,Dangs,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,3251.38,1,available
+GUJ_DEVBHOOMI_DWARKA_2020_2021,Devbhoomi Dwarka,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,4343.43,1,available
+GUJ_DEVBHOOMI_DWARKA_2021_2022,Devbhoomi Dwarka,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,4486.98,1,available
+GUJ_DEVBHOOMI_DWARKA_2022_2023,Devbhoomi Dwarka,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,4025.69,1,available
+GUJ_DEVBHOOMI_DWARKA_2023_2024,Devbhoomi Dwarka,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,4125.76,1,available
+GUJ_GANDHINAGAR_2020_2021,Gandhinagar,Gujarat,wheat,Gujarat,2020,2020,2021,23.2156,72.6369,,2020-11-20,2021-03-25,3503.47,1,available
+GUJ_GANDHINAGAR_2021_2022,Gandhinagar,Gujarat,wheat,Gujarat,2021,2021,2022,23.2156,72.6369,,2021-11-20,2022-03-25,3641.34,1,available
+GUJ_GANDHINAGAR_2022_2023,Gandhinagar,Gujarat,wheat,Gujarat,2022,2022,2023,23.2156,72.6369,,2022-11-20,2023-03-25,3665.47,1,available
+GUJ_GANDHINAGAR_2023_2024,Gandhinagar,Gujarat,wheat,Gujarat,2023,2023,2024,23.2156,72.6369,,2023-11-20,2024-03-25,3631.05,1,available
+GUJ_GIR_SOMNATH_2020_2021,Gir Somnath,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,4252.87,1,available
+GUJ_GIR_SOMNATH_2021_2022,Gir Somnath,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,4393.69,1,available
+GUJ_GIR_SOMNATH_2022_2023,Gir Somnath,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,4044.88,1,available
+GUJ_GIR_SOMNATH_2023_2024,Gir Somnath,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,4078.9,1,available
+GUJ_JAMNAGAR_2020_2021,Jamnagar,Gujarat,wheat,Gujarat,2020,2020,2021,22.4707,70.0577,,2020-11-20,2021-03-25,3782.74,1,available
+GUJ_JAMNAGAR_2021_2022,Jamnagar,Gujarat,wheat,Gujarat,2021,2021,2022,22.4707,70.0577,,2021-11-20,2022-03-25,3875.58,1,available
+GUJ_JAMNAGAR_2022_2023,Jamnagar,Gujarat,wheat,Gujarat,2022,2022,2023,22.4707,70.0577,,2022-11-20,2023-03-25,4248.05,1,available
+GUJ_JAMNAGAR_2023_2024,Jamnagar,Gujarat,wheat,Gujarat,2023,2023,2024,22.4707,70.0577,,2023-11-20,2024-03-25,4115.41,1,available
+GUJ_JUNAGADH_2020_2021,Junagadh,Gujarat,wheat,Gujarat,2020,2020,2021,21.5222,70.4579,,2020-11-20,2021-03-25,4388.12,1,available
+GUJ_JUNAGADH_2021_2022,Junagadh,Gujarat,wheat,Gujarat,2021,2021,2022,21.5222,70.4579,,2021-11-20,2022-03-25,4015.55,1,available
+GUJ_JUNAGADH_2022_2023,Junagadh,Gujarat,wheat,Gujarat,2022,2022,2023,21.5222,70.4579,,2022-11-20,2023-03-25,3997.9,1,available
+GUJ_JUNAGADH_2023_2024,Junagadh,Gujarat,wheat,Gujarat,2023,2023,2024,21.5222,70.4579,,2023-11-20,2024-03-25,3979.6,1,available
+GUJ_KACHCHH_2020_2021,Kachchh,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,2908.59,1,available
+GUJ_KACHCHH_2021_2022,Kachchh,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,2970.67,1,available
+GUJ_KACHCHH_2022_2023,Kachchh,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,2709.87,1,available
+GUJ_KACHCHH_2023_2024,Kachchh,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,2858.91,1,available
+GUJ_KHEDA_2020_2021,Kheda,Gujarat,wheat,Gujarat,2020,2020,2021,22.75,72.7,,2020-11-20,2021-03-25,3025.91,1,available
+GUJ_KHEDA_2021_2022,Kheda,Gujarat,wheat,Gujarat,2021,2021,2022,22.75,72.7,,2021-11-20,2022-03-25,2967.09,1,available
+GUJ_KHEDA_2022_2023,Kheda,Gujarat,wheat,Gujarat,2022,2022,2023,22.75,72.7,,2022-11-20,2023-03-25,3046.84,1,available
+GUJ_KHEDA_2023_2024,Kheda,Gujarat,wheat,Gujarat,2023,2023,2024,22.75,72.7,,2023-11-20,2024-03-25,2974.78,1,available
+GUJ_MAHISAGAR_2020_2021,Mahisagar,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,2522.28,1,available
+GUJ_MAHISAGAR_2021_2022,Mahisagar,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,2815.46,1,available
+GUJ_MAHISAGAR_2022_2023,Mahisagar,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,3015.91,1,available
+GUJ_MAHISAGAR_2023_2024,Mahisagar,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,2658.56,1,available
+GUJ_MEHSANA_2020_2021,Mehsana,Gujarat,wheat,Gujarat,2020,2020,2021,23.588,72.3693,,2020-11-20,2021-03-25,3389.73,1,available
+GUJ_MEHSANA_2021_2022,Mehsana,Gujarat,wheat,Gujarat,2021,2021,2022,23.588,72.3693,,2021-11-20,2022-03-25,3292.8,1,available
+GUJ_MEHSANA_2022_2023,Mehsana,Gujarat,wheat,Gujarat,2022,2022,2023,23.588,72.3693,,2022-11-20,2023-03-25,3169.33,1,available
+GUJ_MEHSANA_2023_2024,Mehsana,Gujarat,wheat,Gujarat,2023,2023,2024,23.588,72.3693,,2023-11-20,2024-03-25,3255.21,1,available
+GUJ_MORBI_2020_2021,Morbi,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,3003.39,1,available
+GUJ_MORBI_2021_2022,Morbi,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,3580.21,1,available
+GUJ_MORBI_2022_2023,Morbi,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,3514.86,1,available
+GUJ_MORBI_2023_2024,Morbi,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,3476.32,1,available
+GUJ_NARMADA_2020_2021,Narmada,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,2801.6,1,available
+GUJ_NARMADA_2021_2022,Narmada,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,2807.79,1,available
+GUJ_NARMADA_2022_2023,Narmada,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,2757.0,1,available
+GUJ_NARMADA_2023_2024,Narmada,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,2774.5,1,available
+GUJ_NAVSARI_2020_2021,Navsari,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,3270.67,1,available
+GUJ_NAVSARI_2021_2022,Navsari,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,3254.48,1,available
+GUJ_NAVSARI_2022_2023,Navsari,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,3224.48,1,available
+GUJ_NAVSARI_2023_2024,Navsari,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,3226.34,1,available
+GUJ_PANCHMAHAL_2020_2021,Panchmahal,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,2259.91,1,available
+GUJ_PANCHMAHAL_2021_2022,Panchmahal,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,2224.53,1,available
+GUJ_PANCHMAHAL_2022_2023,Panchmahal,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,2288.79,1,available
+GUJ_PANCHMAHAL_2023_2024,Panchmahal,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,2417.34,1,available
+GUJ_PATAN_2020_2021,Patan,Gujarat,wheat,Gujarat,2020,2020,2021,23.8507,72.1266,,2020-11-20,2021-03-25,2780.87,1,available
+GUJ_PATAN_2021_2022,Patan,Gujarat,wheat,Gujarat,2021,2021,2022,23.8507,72.1266,,2021-11-20,2022-03-25,2903.98,1,available
+GUJ_PATAN_2022_2023,Patan,Gujarat,wheat,Gujarat,2022,2022,2023,23.8507,72.1266,,2022-11-20,2023-03-25,2783.09,1,available
+GUJ_PATAN_2023_2024,Patan,Gujarat,wheat,Gujarat,2023,2023,2024,23.8507,72.1266,,2023-11-20,2024-03-25,2822.57,1,available
+GUJ_PORBANDAR_2020_2021,Porbandar,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,3386.79,1,available
+GUJ_PORBANDAR_2021_2022,Porbandar,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,3699.69,1,available
+GUJ_PORBANDAR_2022_2023,Porbandar,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,3858.56,1,available
+GUJ_PORBANDAR_2023_2024,Porbandar,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,3708.51,1,available
+GUJ_RAJKOT_2020_2021,Rajkot,Gujarat,wheat,Gujarat,2020,2020,2021,22.3039,70.8022,,2020-11-20,2021-03-25,3787.13,1,available
+GUJ_RAJKOT_2021_2022,Rajkot,Gujarat,wheat,Gujarat,2021,2021,2022,22.3039,70.8022,,2021-11-20,2022-03-25,3799.54,1,available
+GUJ_RAJKOT_2022_2023,Rajkot,Gujarat,wheat,Gujarat,2022,2022,2023,22.3039,70.8022,,2022-11-20,2023-03-25,3854.33,1,available
+GUJ_RAJKOT_2023_2024,Rajkot,Gujarat,wheat,Gujarat,2023,2023,2024,22.3039,70.8022,,2023-11-20,2024-03-25,3914.21,1,available
+GUJ_SABARKANTHA_2020_2021,Sabarkantha,Gujarat,wheat,Gujarat,2020,2020,2021,23.6042,72.963,,2020-11-20,2021-03-25,3283.5,1,available
+GUJ_SABARKANTHA_2021_2022,Sabarkantha,Gujarat,wheat,Gujarat,2021,2021,2022,23.6042,72.963,,2021-11-20,2022-03-25,3539.26,1,available
+GUJ_SABARKANTHA_2022_2023,Sabarkantha,Gujarat,wheat,Gujarat,2022,2022,2023,23.6042,72.963,,2022-11-20,2023-03-25,3234.9,1,available
+GUJ_SABARKANTHA_2023_2024,Sabarkantha,Gujarat,wheat,Gujarat,2023,2023,2024,23.6042,72.963,,2023-11-20,2024-03-25,3298.44,1,available
+GUJ_SURAT_2020_2021,Surat,Gujarat,wheat,Gujarat,2020,2020,2021,21.1702,72.8311,,2020-11-20,2021-03-25,2653.3,1,available
+GUJ_SURAT_2021_2022,Surat,Gujarat,wheat,Gujarat,2021,2021,2022,21.1702,72.8311,,2021-11-20,2022-03-25,2557.35,1,available
+GUJ_SURAT_2022_2023,Surat,Gujarat,wheat,Gujarat,2022,2022,2023,21.1702,72.8311,,2022-11-20,2023-03-25,2566.72,1,available
+GUJ_SURAT_2023_2024,Surat,Gujarat,wheat,Gujarat,2023,2023,2024,21.1702,72.8311,,2023-11-20,2024-03-25,2561.77,1,available
+GUJ_SURENDRANAGAR_2020_2021,Surendranagar,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,2996.11,1,available
+GUJ_SURENDRANAGAR_2021_2022,Surendranagar,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,3205.02,1,available
+GUJ_SURENDRANAGAR_2022_2023,Surendranagar,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,2995.77,1,available
+GUJ_SURENDRANAGAR_2023_2024,Surendranagar,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,2976.63,1,available
+GUJ_TAPI_2020_2021,Tapi,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,3098.87,1,available
+GUJ_TAPI_2021_2022,Tapi,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,3025.99,1,available
+GUJ_TAPI_2022_2023,Tapi,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,3007.86,1,available
+GUJ_TAPI_2023_2024,Tapi,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,3108.66,1,available
+GUJ_VADODARA_2020_2021,Vadodara,Gujarat,wheat,Gujarat,2020,2020,2021,22.3072,73.1812,,2020-11-20,2021-03-25,2472.27,1,available
+GUJ_VADODARA_2021_2022,Vadodara,Gujarat,wheat,Gujarat,2021,2021,2022,22.3072,73.1812,,2021-11-20,2022-03-25,2393.11,1,available
+GUJ_VADODARA_2022_2023,Vadodara,Gujarat,wheat,Gujarat,2022,2022,2023,22.3072,73.1812,,2022-11-20,2023-03-25,2828.84,1,available
+GUJ_VADODARA_2023_2024,Vadodara,Gujarat,wheat,Gujarat,2023,2023,2024,22.3072,73.1812,,2023-11-20,2024-03-25,2649.15,1,available
+GUJ_VALSAD_2020_2021,Valsad,Gujarat,wheat,Gujarat,2020,2020,2021,,,,2020-11-20,2021-03-25,0.0,1,available
+GUJ_VALSAD_2021_2022,Valsad,Gujarat,wheat,Gujarat,2021,2021,2022,,,,2021-11-20,2022-03-25,0.0,1,available
+GUJ_VALSAD_2022_2023,Valsad,Gujarat,wheat,Gujarat,2022,2022,2023,,,,2022-11-20,2023-03-25,0.0,1,available
+GUJ_VALSAD_2023_2024,Valsad,Gujarat,wheat,Gujarat,2023,2023,2024,,,,2023-11-20,2024-03-25,0.0,1,available
+GUJ_AHMEDABAD_2024_2025,Ahmedabad,Gujarat,wheat,Gujarat,2024,2024,2025,23.0225,72.5714,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_AMRELI_2024_2025,Amreli,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_ANAND_2024_2025,Anand,Gujarat,wheat,Gujarat,2024,2024,2025,22.5645,72.9289,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_ARVALLI_2024_2025,Arvalli,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_BANASKANTHA_2024_2025,Banaskantha,Gujarat,wheat,Gujarat,2024,2024,2025,24.1747,72.4331,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_BHARUCH_2024_2025,Bharuch,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_BHAVNAGAR_2024_2025,Bhavnagar,Gujarat,wheat,Gujarat,2024,2024,2025,21.7645,72.1519,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_BOTAD_2024_2025,Botad,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_CHHOTA_UDEPUR_2024_2025,Chhota Udepur,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_DAHOD_2024_2025,Dahod,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_DANGS_2024_2025,Dangs,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_DEVBHOOMI_DWARKA_2024_2025,Devbhoomi Dwarka,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_GANDHINAGAR_2024_2025,Gandhinagar,Gujarat,wheat,Gujarat,2024,2024,2025,23.2156,72.6369,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_GIR_SOMNATH_2024_2025,Gir Somnath,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_JAMNAGAR_2024_2025,Jamnagar,Gujarat,wheat,Gujarat,2024,2024,2025,22.4707,70.0577,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_JUNAGADH_2024_2025,Junagadh,Gujarat,wheat,Gujarat,2024,2024,2025,21.5222,70.4579,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_KACHCHH_2024_2025,Kachchh,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_KHEDA_2024_2025,Kheda,Gujarat,wheat,Gujarat,2024,2024,2025,22.75,72.7,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_MAHISAGAR_2024_2025,Mahisagar,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_MEHSANA_2024_2025,Mehsana,Gujarat,wheat,Gujarat,2024,2024,2025,23.588,72.3693,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_MORBI_2024_2025,Morbi,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_NARMADA_2024_2025,Narmada,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_NAVSARI_2024_2025,Navsari,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_PANCHMAHAL_2024_2025,Panchmahal,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_PATAN_2024_2025,Patan,Gujarat,wheat,Gujarat,2024,2024,2025,23.8507,72.1266,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_PORBANDAR_2024_2025,Porbandar,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_RAJKOT_2024_2025,Rajkot,Gujarat,wheat,Gujarat,2024,2024,2025,22.3039,70.8022,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_SABARKANTHA_2024_2025,Sabarkantha,Gujarat,wheat,Gujarat,2024,2024,2025,23.6042,72.963,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_SURAT_2024_2025,Surat,Gujarat,wheat,Gujarat,2024,2024,2025,21.1702,72.8311,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_SURENDRANAGAR_2024_2025,Surendranagar,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_TAPI_2024_2025,Tapi,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_VADODARA_2024_2025,Vadodara,Gujarat,wheat,Gujarat,2024,2024,2025,22.3072,73.1812,,2024-11-20,2025-03-25,,0,pending_actual_apy
+GUJ_VALSAD_2024_2025,Valsad,Gujarat,wheat,Gujarat,2024,2024,2025,,,,2024-11-20,2025-03-25,,0,pending_actual_apy

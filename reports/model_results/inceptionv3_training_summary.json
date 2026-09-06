@@ -1,0 +1,7 @@
+{
+  "model_name": "inceptionv3",
+  "model_path": "/home/student/Crop_Yield_Prediction/Crop_yeild_predictions-20260603T090933Z-3-001/Crop_yeild_predictions/models/cnn/inceptionv3_best.keras",
+  "training_time_seconds": 1156.1558649539948,
+  "best_validation_accuracy": 0.9616368412971497,
+  "best_validation_loss": 0.10028336942195892
+}

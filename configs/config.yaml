@@ -1,0 +1,70 @@
+project:
+  name: CROP_YIELD_PREDICTIONS
+  crop: wheat
+  season: rabi
+  main_region: Mehsana, Gujarat, India
+
+train_years: [2021, 2022, 2023, 2024]
+predict_year: 2025
+
+stage_definitions:
+  - name: sowing
+    start_das: 0
+    end_das: 10
+  - name: early_vegetative
+    start_das: 10
+    end_das: 20
+  - name: tillering
+    start_das: 20
+    end_das: 40
+  - name: stem_elongation
+    start_das: 40
+    end_das: 60
+  - name: booting_heading
+    start_das: 60
+    end_das: 80
+  - name: flowering
+    start_das: 80
+    end_das: 95
+  - name: grain_filling_initial
+    start_das: 95
+    end_das: 105
+  - name: grain_filling
+    start_das: 105
+    end_das: 115
+  - name: maturity_preharvest
+    start_das: 115
+    end_das: 130
+
+image_stage_label_map:
+  Seedling & Plant: early_vegetative
+  Wheat Flowers: flowering
+  Plant with Fruit: grain_filling_initial
+  Fruit with Seeds: grain_filling
+  Wheat Fruits only: maturity_preharvest
+
+api_settings:
+  weather:
+    provider: open_meteo
+    base_url: https://archive-api.open-meteo.com/v1/archive
+    timezone: Asia/Kolkata
+    variables:
+      - precipitation_sum
+      - temperature_2m_min
+      - temperature_2m_max
+      - relative_humidity_2m_mean
+      - shortwave_radiation_sum
+
+paths:
+  raw_dir: data/raw
+  interim_dir: data/interim
+  processed_dir: data/processed
+  reports_dir: reports
+  templates_dir: data/raw/templates
+  apy_dir: data/raw/apy
+  weather_dir: data/raw/weather
+  satellite_dir: data/raw/satellite
+  images_dir: data/raw/images
+  drone_dir: data/raw/drone
+  farm_logs_dir: data/raw/farm_logs
+  soil_dir: data/raw/soil

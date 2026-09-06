@@ -1,0 +1,2 @@
+image_path,error_message
+data/raw/images/wheat_stage_dataset/5_Filling/20220521B216kr.png,"{{function_node __wrapped__DecodeImage_device_/job:localhost/replica:0/task:0/device:CPU:0}} Invalid PNG data, size 189766 [Op:DecodeImage] name: "
